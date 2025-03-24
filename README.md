@@ -28,6 +28,8 @@ Visuals help to demistify information that would have been explained using long 
 
 ## 8. What types of visuals (e.g., diagrams, charts) are most effective for different kinds of technical information?
 ## 9. How do headings and subheadings improve the readability and organization of technical documents?
+
+Headings show what the topic / document is about. Sub headings help to break down information on the other topics to be talked about.Sub headings should be captivating and should be ableto capture 
 ## 10. What are some best practices for creating effective headings and subheadings?
 ## 11. What should be included in the introduction of a Readme to immediately inform users about what the product does?
 

@@ -25,12 +25,14 @@ Using simplified terms makes it possible for everyone of different undertsanding
 ## 7. How can using examples and visuals help in explaining complex concepts more clearly?
 
 Visuals help to demistify information that would have been explained using long paragraphs. Examples also help people to get a view of whatever you are talking about using real life expectations and illustrations. It also helps people who learn better visually to be able to understand.
-
+]
 ## 8. What types of visuals (e.g., diagrams, charts) are most effective for different kinds of technical information?
 ## 9. How do headings and subheadings improve the readability and organization of technical documents?
 
 Headings show what the topic / document is about. Sub headings help to break down information on the other topics to be talked about.Sub headings should be captivating and should be ableto capture 
 ## 10. What are some best practices for creating effective headings and subheadings?
+
+Using compelling sub headings and headings that attract the reader is a way of creating effectiveness. This enhances the engagement and curiosity of the reader. Adding variation and creativity to the headings allow for the work being presented to look colorful. Despite the adding of variations one shoukd not have too many variations that make the work look cumbersome.
 ## 11. What should be included in the introduction of a Readme to immediately inform users about what the product does?
 
 A README file should include information on how to use the product or development made. It should contain detailed information on the languages used on the product and why it was created. It should also indicate the problem that is solves .

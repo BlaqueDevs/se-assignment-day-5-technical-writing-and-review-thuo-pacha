@@ -25,8 +25,11 @@ Using simplified terms makes it possible for everyone of different undertsanding
 ## 7. How can using examples and visuals help in explaining complex concepts more clearly?
 
 Visuals help to demistify information that would have been explained using long paragraphs. Examples also help people to get a view of whatever you are talking about using real life expectations and illustrations. It also helps people who learn better visually to be able to understand.
-]
-## 8. What types of visuals (e.g., diagrams, charts) are most effective for different kinds of technical information?
+
+## 8. What types of visuals (e.g., diagrams,usage of certain developments 
+
+Pie charts help to show percentages or figures that may involve numbers of people using a certain development or groups of people that are involved with particular systems.
+Maps can also be used to identify key areas that use certain developments and those that do not.
 ## 9. How do headings and subheadings improve the readability and organization of technical documents?
 
 Headings show what the topic / document is about. Sub headings help to break down information on the other topics to be talked about.Sub headings should be captivating and should be ableto capture 
